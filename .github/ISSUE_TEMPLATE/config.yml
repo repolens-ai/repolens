@@ -1,0 +1,11 @@
+blank_lines_enabled: true
+contact_links:
+  - name: RepoLens Documentation
+    url: https://repolens-ai.github.io/docs
+    about: Official RepoLens documentation - please check here before opening an issue.
+  - name: RepoLens Website
+    url: https://repolens-ai.github.io
+    about: Main RepoLens website - for details about RepoLens's products.
+  - name: Email
+    url: mailto:admin@khulnasoft.com
+    about: Contact email address - for sensitive issues or just to get in touch.
